@@ -1,0 +1,5 @@
+[
+    { "id": 1, "titulo": "zapatos", "precio": 7000, "url": "" },
+    { "id": 2, "titulo": "remera", "precio": 7000, "url": "" },
+    { "id": 3, "titulo": "gorra", "precio": 7000, "url": "" }
+]
